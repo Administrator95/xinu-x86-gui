@@ -3,7 +3,7 @@ This file has the copyright notice for the bellow extra add-ons:
 - microui (MIT license)
 - vt100.c (GPL license)
 - Galaga game (NO license)
-- Arkanoids game (NO license)
+- Arkanoid game (NO license)
 extras/microui/
 ---------------
 
@@ -57,7 +57,7 @@ This file is part of FORTMAX.
 
 
 extras/galaga/
-extras/arkanoids/
+extras/arkanoid/
 --------------
 
 NO LICENSE
