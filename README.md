@@ -5,9 +5,9 @@ Xinu OS for x86 with graphical vga, mouse and keyboard environment (gui)
 
 ## Instructions to run xinu-x86-gui on QEMU
 
-(in Debian, Ubuntu, Linux Minut or alike)
+(in Debian, Ubuntu, Linux Mint or alike)
 
-Install the below required packages first:
+Install the below-required packages first:
 
 ```
 bison
